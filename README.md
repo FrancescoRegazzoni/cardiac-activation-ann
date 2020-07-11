@@ -13,7 +13,7 @@ The ANN model has been trained by means of the Machine Learning method proposed 
 
 ### References
 
-- [1] F. Regazzoni, L. Dedè, A. Quarteroni "Machine learning of multiscale active force generation models for the efficient simulation of cardiac electromechanics", *Computer Methods in Applied Mechanics and Engineering* (2020).
+- [1] F. Regazzoni, L. Dedè, A. Quarteroni ["Machine learning of multiscale active force generation models for the efficient simulation of cardiac electromechanics"](https://doi.org/10.1016/j.cma.2020.113268), *Computer Methods in Applied Mechanics and Engineering* (2020).
 - [2] F. Regazzoni, L. Dedè, A. Quarteroni ["Active contraction of cardiac cells: a reduced model for sarcomere dynamics with cooperative interactions"](https://doi.org/10.1007/s10237-018-1049-0), *Biomechanics and Modeling in Mechanobiology* (2018).
 - [3] F. Regazzoni, L. Dedè, A. Quarteroni ["Machine learning for fast and reliable solution of time-dependent differential equations"](https://doi.org/10.1016/j.jcp.2019.07.050), *Journal of Computational Physics* (2019).
 

@@ -35,6 +35,7 @@ function output = model_ANN(input, ANN_path)
 %     active force generation models for the efficient simulation of
 %     cardiac electromechanics", Computer Methods in Applied Mechanics and
 %     Engineering (2020)
+%     https://doi.org/10.1016/j.cma.2020.113268
 %
 % [2] F. Regazzoni, L. Dedè, A. Quarteroni "Active contraction of cardiac
 %     cells: a reduced model for sarcomere dynamics with cooperative
