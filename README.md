@@ -6,7 +6,7 @@ The ANN model has been trained by means of the Machine Learning method proposed 
 
 
 ### Content
-- `ANN`: weights and biases of the ANN model (see Eq. (17) of [1]).
+- `ANN`: weights and biases of the ANN model (see [1], Appendix A).
 - `params`: parameters of the RDQ18 model [2].
 - `matlab`: Matlab code with an example of simulation.
 - `python`: Python code with an example of simulation.
